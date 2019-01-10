@@ -1,0 +1,5 @@
+2flowers/jpg/0/image_0561.jpg 2 90,126,350,434
+2flowers/jpg/0/image_0562.jpg 2 160,15,340,415
+2flowers/jpg/0/image_0563.jpg 2 42,25,408,405
+2flowers/jpg/0/image_0564.jpg 2 66,48,384,318
+2flowers/jpg/0/image_0565.jpg 2 17,208,363,354
